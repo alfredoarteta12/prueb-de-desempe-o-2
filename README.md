@@ -14,6 +14,6 @@
  4 update student
  5 delete student
 
- "examples of use
+ # examples of use
 
  This program can be used to check if a student is active or not. For example, if you want to update the status of graduated students, you can mark them as inactive. Another example is that you can search for names throughout the system and it will tell you if they are active or not.
